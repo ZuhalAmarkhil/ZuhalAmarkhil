@@ -11,6 +11,5 @@ I am a Data Science and Data Analytics enthusiast with a rich background in vari
 ## Get in Touch
 - Email: zuhal.amarkhil@gmail.com
 
-Feel free to explore my projects below and reach out if you would like to collaborate on an interesting project. 
-
 ## My Projects: 
+I am currently in the process of developing some exciting projects that showcase my skills in data science and analytics. Stay tuned for updates, as I will be adding links to my projects here in the near future. In the meantime, I am open to collaborating on projects, feel free to get in touch.
