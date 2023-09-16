@@ -1,6 +1,6 @@
 
 # Hello, World! 👋
-I am a Data Science and Data Analytics enthusiastic with a rich background in various programming languages, database management, and business intelligence tools. I hold a Masters in Information Systems and a certificate of advanced studies in Data Science from Syracuse University, New York. My journey so far has been a blend of rigorous academic training and hands-on experience in the government and tech sectors.
+I am a Data Science and Data Analytics enthusiast with a rich background in various programming languages, database management, and business intelligence tools. I hold a Masters in Information Systems from Syracuse University, New York, and a Certificate of Advanced Studies in Data Science. My journey so far has been a blend of rigorous academic training and hands-on experience in the government and tech sectors.
 ## Core Skills
 | **Programming Languages** | **Database Management**  | **Business Intelligence Tools** |
 |---------------------------|---------------------------|---------------------------------|
