@@ -1,5 +1,5 @@
 # Hello, World! 👋
-I am a Data Science and Data Analytics enthusiast with a rich background in various programming languages, database management, and business intelligence tools.I recently completed my Masters in Information Systems from Syracuse University, New York, being a proud Fulbright Scholarship awardee.
+I am a Data Science and Data Analytics enthusiast with a rich background in various programming languages, database management, and business intelligence tools.I recently completed my Masters in Information Systems from Syracuse University, New York, USA.
 <br>
 Currently, I am actively seeking opportunities where I can leverage my diverse skills and contribute to challenging real-world projects. 
 
