@@ -2,9 +2,6 @@
 
 **About Me:**
 <br>
-I am an IT professional with a Master’s in Information Systems, a Bachelor’s in Computer Science, and a Certificate of Advanced Studies in Data Science. I thrive in dynamic environments where I collaborate with stakeholders, optimize processes, and promote data-driven decision-making.
-<br>
-
 I am passionate about Data Science and Analytics, with a robust foundation in programming languages, database management, business intelligence tools, and project management. I am actively seeking opportunities to apply my skills to real-world projects and make meaningful contributions.
 <br>
 
