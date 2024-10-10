@@ -5,4 +5,4 @@
 I am passionate about Data Science and Analytics, with a robust foundation in programming languages, database management, business intelligence tools, and project management. I am actively seeking opportunities to apply my skills to real-world projects and make meaningful contributions.
 <br>
 
-Feel free to connect with me via email at zuhal.amarkhil@gmail.com. You can also explore my writing on my [Medium](https://medium.com/@zuhalA) blog.
+Feel free to connect with me via email at zuhal.amarkhil@gmail.com.
